@@ -1,0 +1,5 @@
+Variable: almace un valor en una palabra clave para luego utilizar esa palabra clave con dicho valor.
+String: son palabras determinadas que se colocan dentro de comillas simples o dobles.
+Funciones: se usan para calcular, cambiar o hacer algo con un conjunto de variales; comienza con la palabra funcion, luego se le da un nombre que describa lo que hace dicha funcion, lleva parentesis don sera asignado un argumento que es lo que define a la funcion para finalmente abrir corchetes para colocarel return que es lo que nos va a devolver lo que se ha planteado en la funcion.
+If: es un condicional que signisica SI, se usa para definir la funcion donde dado una condicion se dan el resultado requerido o planteado.
+Valores Boleanos: tiene 2 datos posibles true y false, se usan para significar verdadero y falso.
