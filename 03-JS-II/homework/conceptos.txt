@@ -1,0 +1,7 @@
+El bucle for se utiliza para hacer ciclos repetitivos y condicionados para poder finalizar el bucle por que si no se torna repetitivamente infinito.
+
+Operadores logicos:
+
+&&: se utiliza para condicionar y su significado es "Y"
+||: se utiliza para condicionar y su significado es "O"
+!: su significa seria "Lo contrario" o para hacer una "Negacion"
